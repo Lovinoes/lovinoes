@@ -22,11 +22,7 @@
 
 <div align="left">
   <h3>Views Counter</h3>
-  <a href="https://github.com/lovinoes/github-stats#gh-dark-mode-only">
-    <img src="https://counter.lunoxia.net/get/@lovinoes?theme=moebooru-h" alt="Visitor Counter (Dark Mode)" />
-  </a>
-
-  <a href="https://github.com/lovinoes/github-stats#gh-light-mode-only">
-    <img src="https://counter.lunoxia.net/get/@lovinoes?theme=moebooru-h" alt="Visitor Counter (Light Mode)" />
+  <a href="https://lovinoes.de">
+    <img src="https://counter.lunoxia.net/get/@lovinoes?theme=moebooru-h" alt="Visitor Counter" />
   </a>
 </div>
