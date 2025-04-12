@@ -16,7 +16,7 @@
 <h3>Languages and Tools</h3>
 <div align="left">
   <a href="https://lovinoes.de">
-    <img src="https://skillicons.dev/icons?i=java,js,bash,docker,git,linux,maven,nginx" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=java,js,bash,docker,git,linux,maven,nginx" alt="Languages and Tools I use" />
   </a>
 </div>
 
