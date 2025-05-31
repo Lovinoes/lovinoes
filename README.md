@@ -13,13 +13,6 @@
   </a>
 </div>
 
-<h3>Operating Systems</h3>
-<div align="left">
-  <a href="https://lovinoes.de">
-    <img src="https://skillicons.dev/icons?i=windows,arch" alt="Operating Systems use" />
-  </a>
-</div>
-
 <h3>Languages and Tools</h3>
 <div align="left">
   <a href="https://lovinoes.de">
