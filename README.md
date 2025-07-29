@@ -26,3 +26,5 @@
     <img src="https://counter.lunoxia.net/get/@lovinoes?theme=moebooru-h" alt="Visitor Counter" />
   </a>
 </div>
+
+![MEME](https://i.imgflip.com/86nnnu.jpg)
