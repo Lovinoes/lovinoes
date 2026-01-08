@@ -13,7 +13,7 @@
   </a>
 </div>
 
-<h3>Languages and Tools I use</h3>
+<h3>Languages and Tools I've Used</h3>
 <div align="left">
   <a href="https://lovinoes.de">
     <img src="https://skillicons.dev/icons?i=java,js,bash,powershell,docker,git,linux,maven,gradle,nginx" alt="Languages and Tools I use" />
