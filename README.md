@@ -17,3 +17,20 @@
     <img src="https://github.com/lovinoes/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only" alt="GitHub Languages (Light Mode)" />
   </a>
 </div>
+
+<h3>Languages and Tools I've Used</h3>
+<div align="left">
+  <a href="https://lovinoes.de">
+    <img src="https://skillicons.dev/icons?i=java,js,bash,powershell,docker,git,linux,maven,gradle,nginx" alt="Languages and Tools I use" />
+  </a>
+</div>
+
+<div align="left">
+  <h3>Views Counter</h3>
+  <a href="https://lovinoes.de">
+    <img src="https://counter.lunoxia.net/get/@lovinoes?theme=moebooru-h" alt="Visitor Counter" />
+  </a>
+</div>
+<!--
+![MEME](https://i.imgflip.com/86nnnu.jpg)
+-->
